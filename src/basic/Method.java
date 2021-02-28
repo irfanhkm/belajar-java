@@ -1,3 +1,5 @@
+package basic;
+
 public class Method {
     public static void main(String[] args) {
         var method = new Method();

@@ -1,3 +1,5 @@
+package basic;
+
 public class CharStringBooleanDataType {
     public static void main(String[] args) {
         // char hanya bisa menyimpan satu karakter

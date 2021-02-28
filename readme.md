@@ -2,6 +2,7 @@
 irfan explore java dasar lagi biar ga lupa
 
 ### Workaround
+Basic:
 - [x] output
 - [x] data type (number, string, char, boolean)
 - [x] variable (variable, var, final)
@@ -15,3 +16,6 @@ irfan explore java dasar lagi biar ga lupa
 - [x] method
 - [x] method overloading
 - [x] recursive
+
+OOP:
+Class:

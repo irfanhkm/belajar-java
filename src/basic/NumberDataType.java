@@ -1,3 +1,5 @@
+package basic;
+
 public class NumberDataType {
     public static void main(String[] args) {
         // absolute variable

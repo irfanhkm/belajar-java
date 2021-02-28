@@ -1,3 +1,5 @@
+package basic;
+
 public class Statement {
     public static void main(String[] args) {
         // IF, berjalan jika kondisi benar

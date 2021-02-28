@@ -1,3 +1,5 @@
+package basic;
+
 public class PrimitiveDataType {
     public static void main(String[] args) {
         // Tipe data primitif adalah tipe bawaan di dalam bahasa pemrograman. Tipe data primitif tidak bisa diubah lagi

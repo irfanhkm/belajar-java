@@ -1,3 +1,5 @@
+package basic;
+
 public class Array {
     public static void main(String[] args) {
         // array adalah tipe data yang berisikan kumpulan data dengan tipe yang sama
