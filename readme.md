@@ -8,8 +8,8 @@ explore java dasar lagi biar ga lupa
 - [x] primitive, non primitive
 - [x] array
 - [x] stack
-- [ ] arithmetic operation
-- [ ] comparison
+- [x] arithmetic operation
+- [x] comparison
 - [ ] statement
 - [ ] looping
 - [ ] method
