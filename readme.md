@@ -28,3 +28,4 @@ OOP:
 - [x] access level (public protected private)
 - [x] Interface
 - [x] Anon class
+- [x] Enum class

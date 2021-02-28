@@ -6,11 +6,9 @@ import java.util.List;
 
 public class Karyawan implements KerjaanKaryawan {
     public String name;
-    public Integer nik;
+    public final int nik = hashCode();
     public String jabatan = "karyawan";
     public List<String> kerjaan = new ArrayList<>() {};
-
-
     public Karyawan(String name, String jabatan) {
         this(name);
         if (jabatan != null) {
@@ -20,12 +18,7 @@ public class Karyawan implements KerjaanKaryawan {
 
     public Karyawan(String name) {
         this.name = name;
-        this.generateNik();
         this.tambahKerjaanBasic();
-    }
-
-    private void generateNik() {
-        nik = hashCode();
     }
 
     public void tambahKerjaanBasic() {
