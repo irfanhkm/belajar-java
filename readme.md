@@ -12,6 +12,6 @@ irfan explore java dasar lagi biar ga lupa
 - [x] comparison
 - [x] statement (if else, switch, ternary operator).
 - [x] looping
-- [ ] method
-- [ ] method overloading
-- [ ] recursive
+- [x] method
+- [x] method overloading
+- [x] recursive
