@@ -10,7 +10,7 @@ explore java dasar lagi biar ga lupa
 - [x] stack
 - [x] arithmetic operation
 - [x] comparison
-- [ ] statement (if else, switch)
+- [x] statement (if else, switch, ternary operator)
 - [ ] looping
 - [ ] method
 - [ ] method overloading
