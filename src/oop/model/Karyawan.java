@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Karyawan {
+public class Karyawan implements KerjaanKaryawan {
     public String name;
     public Integer nik;
     public String jabatan = "karyawan";
@@ -28,7 +28,7 @@ public class Karyawan {
         nik = hashCode();
     }
 
-    private void tambahKerjaanBasic() {
+    public void tambahKerjaanBasic() {
         this.kerjaan.addAll(Arrays.asList("clock in", "clock out", "kerja", "istirahat"));
     }
 
@@ -40,13 +40,14 @@ public class Karyawan {
         System.out.println("anda sedang clock out");
     }
 
-    public Karyawan tambahKerjaan(String[] kerjaans) {
-        this.kerjaan.addAll(Arrays.asList(kerjaans));
-        return this;
-    }
-
     public void liatKerjaan() {
         System.out.println("List kerjaan " + jabatan + " :");
         System.out.println(String.join(", ", kerjaan));
+    }
+
+    @Override
+    public Karyawan tambahKerjaan(String[] kerjaans) {
+        this.kerjaan.addAll(Arrays.asList(kerjaans));
+        return this;
     }
 }
