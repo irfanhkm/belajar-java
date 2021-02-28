@@ -17,7 +17,7 @@ public class Variable {
         // bisa membuat variable tanpa menyebutkan tipe data
         // harus menginit value terlebih dahulu
 
-        // var pinalti; Error! tidak ada pelanggaran, harus diinit valuenya
+        // var pinalti; Error! tidak ada pelanggaran, harus diinit valuenya dulu
         var iniVar = "bola mengenai tangan";
 
         // Tipe data final
@@ -25,6 +25,6 @@ public class Variable {
         // penulisan diawali dengan final diikuti dengan tipe data dan nama variable
 
         final String keputusanHakim = "Bersalah";
-        // keputusanHakim = "Tidak Bersalah" // Error ! keputusan hakim tidak dapat diubah
+        // keputusanHakim = "Tidak Bersalah" // Error ! keputusan hakim tidak dapat diubah karena bersifat final
     }
 }
