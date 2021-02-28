@@ -6,7 +6,8 @@ explore java dasar lagi biar ga lupa
 - [x] data type (number, string, char, boolean)
 - [x] variable (variable, var, final)
 - [x] primitive, non primitive
-- [ ] array
+- [x] array
+- [x] stack
 - [ ] arithmetic operation
 - [ ] comparison
 - [ ] statement
