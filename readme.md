@@ -22,3 +22,8 @@ OOP:
 - [x] object
 - [x] construct, constructor overloading
 - [x] variable shadowing
+- [x] inheritance
+- [x] polymorphism
+- [x] package
+- [x] access level (public protected private)
+- [ ] Abstract Class
