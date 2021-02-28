@@ -4,7 +4,7 @@ explore java dasar lagi biar ga lupa
 ### Workaround
 - [x] output
 - [x] data type (number, string, char, boolean)
-- [ ] variable
+- [x] variable (variable, var, final)
 - [ ] array
 - [ ] arithmetic operation
 - [ ] comparison
