@@ -29,3 +29,6 @@ OOP:
 - [x] Interface
 - [x] Anon class
 - [x] Enum class
+- [x] Exception
+- [x] Annotation
+
