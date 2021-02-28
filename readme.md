@@ -1,5 +1,5 @@
 # Belajar java
-explore java dasar lagi biar ga lupa
+irfan explore java dasar lagi biar ga lupa
 
 ### Workaround
 - [x] output
@@ -11,7 +11,7 @@ explore java dasar lagi biar ga lupa
 - [x] arithmetic operation
 - [x] comparison
 - [x] statement (if else, switch, ternary operator).
-- [ ] looping
+- [x] looping
 - [ ] method
 - [ ] method overloading
 - [ ] recursive
