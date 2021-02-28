@@ -26,4 +26,5 @@ OOP:
 - [x] polymorphism
 - [x] package
 - [x] access level (public protected private)
-- [ ] Abstract Class
+- [x] Interface
+- [x] Anon class

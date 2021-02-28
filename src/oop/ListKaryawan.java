@@ -11,6 +11,7 @@ public class ListKaryawan {
         listKaryawan();
         System.out.println("=====");
         listKaryawanInheritance();
+        anonymousClass();
     }
 
     protected static void listKaryawan() {
@@ -42,5 +43,10 @@ public class ListKaryawan {
 
         Karyawan karyawan = new Karyawan("Irfan");
         karyawan.liatKerjaan();
+    }
+
+    protected static void anonymousClass() {
+        AnonClass indo = () -> System.out.println("ListKaryawan.sayHello");
+        indo.sayHello();
     }
 }
