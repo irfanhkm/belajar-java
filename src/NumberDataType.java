@@ -1,4 +1,4 @@
-public class NumberVariable {
+public class NumberDataType {
     public static void main(String[] args) {
         // absolute variable
         byte Byte = 100;
