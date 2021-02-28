@@ -18,4 +18,7 @@ Basic:
 - [x] recursive
 
 OOP:
-Class:
+- [x] class
+- [x] object
+- [x] construct, constructor overloading
+- [x] variable shadowing
